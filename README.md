@@ -1,14 +1,21 @@
-# TITLE
+# NASA’s Use of AI in Mission Planning: Transforming Space Exploration
 
 ## Overview and Origin
 
-* Name of company
+* Name of company:
+  National Aeronautics and Space Administration (NASA)
 
 * When was the company incorporated?
+  NASA was established on July 29, 1958.
 
 * Who are the founders of the company?
+  NASA was created by the United States government, spearheaded by the National
+  Advisory Committee for Aeronautics (NACA).
 
 * How did the idea for the company (or project) come about?
+  The idea for NASA emerged in response to the Soviet Union’s successful launch
+  of Sputnik 1 in 1957, marking the start of the space race and highlighting the
+  need for the U.S. to develop a coordinated space program.
 
 * How is the company funded? How much funding have they received?
 
