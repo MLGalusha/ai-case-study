@@ -3,7 +3,11 @@
 ## Overview and Origin
 **Name of company:** NASA's PeTaL (Periodic Table of Life)
 **Incorporation Date:** Not applicable (NASA project)
-**Founders:** Vikram Shyam, Lauren Friend, Brian Whiteaker, Nicholas Bense, Jonathan Dowdall, Bishoy Boktor, Manju Johny, Isaias Reyes, Angeera Naser, Nikhitha Sakhamuri, Victoria Kravets, Alexandra Calvin, Kaylee Gabus, Delonte Goodman, Herbert Schilling, Calvin Robinson, Robert Omar Reid II, Colleen Unsworth.
+**Founders:**
+<details>
+  <summary>Click to expand</summary>
+  Vikram Shyam, Lauren Friend, Brian Whiteaker, Nicholas Bense, Jonathan Dowdall, Bishoy Boktor, Manju Johny, Isaias Reyes, Angeera Naser, Nikhitha Sakhamuri, Victoria Kravets, Alexandra Calvin, Kaylee Gabus, Delonte Goodman, Herbert Schilling, Calvin Robinson, Robert Omar Reid II, Colleen Unsworth.
+</details>
 **Idea Origin:** PeTaL was conceived to systematically integrate biomimicry principles with artificial intelligence to solve engineering challenges.
 **Funding:** Funded by NASA Glenn Research Center.
 
