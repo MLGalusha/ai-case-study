@@ -68,35 +68,35 @@
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Additional Companies</strong><details><summary><strong>A Couple Similar Companies</strong></summary>
 <ul>
     <li>
-        <strong><a href="https://www.petpace.com" target="_blank">PetPace</a></strong>:
+        <strong><a href="https://www.petpace.com" target="_blank">PetPace:</a></strong>
         Offers a smart collar for cats and dogs that monitors vital signs such as temperature, pulse, respiration, and heart rate variability. It also tracks activity levels, calories burned, and pain indicators. The data is analyzed, and alerts are sent to the owner or vet via app notifications if anomalies are detected.
     </li>
     <li>
-        <strong><a href="https://www.actijoy.com" target="_blank">Actijoy</a></strong>:
+        <strong><a href="https://www.actijoy.com" target="_blank">Actijoy:</a></strong>
         Provides a comprehensive health and activity monitoring system that includes a Health & Activity Tracker, WiFi Food & Water Bowls, and a mobile app. This system tracks a dog's activity, rest, food, and water intake, detecting health anomalies and providing insights for improved pet care.
     </li>
     <li>
-        <strong><a href="https://www.moggie.me" target="_blank">Moggie</a></strong>:
+        <strong><a href="https://www.moggie.me" target="_blank">Moggie:</a></strong>
         Develops a smart collar specifically for cats. It monitors pet activity throughout the day and provides behavior-based health suggestions. The collar uses algorithms to offer veterinary insights on potential health risks and remotely updates pet parents about changes in monitored parameters.
     </li>
     <li>
-        <strong><a href="https://www.lulupet.com.tw" target="_blank">Lulupet</a></strong>:
+        <strong><a href="https://www.lulupet.com.tw" target="_blank">Lulupet:</a></strong>
         Offers a smart litter box for cats that combines AI, IoT, and cloud computing to monitor excretion behavior. The accompanying app provides health information and enables precision medicine prescriptions, helping pet owners identify the right time for medical intervention.
     </li>
     <li>
-        <strong><a href="https://www.getrawr.com" target="_blank">RAWR</a></strong>:
+        <strong><a href="https://www.getrawr.com" target="_blank">RAWR:</a></strong>
         Provides a smart pet collar that tracks activity levels, location details, and vital signs. The system alerts pet parents to abnormal vitals, such as signs of a heat stroke, and offers personalized updates on medicine refills and checkups.
     </li>
     <li>
-        <strong><a href="https://www.felcana.com" target="_blank">Felcana</a></strong>:
+        <strong><a href="https://www.felcana.com" target="_blank">Felcana:</a></strong>
         A digital pet health platform that monitors pets' health and fitness through an app. It offers insights and recommendations based on the collected data, helping pet owners ensure their pets' well-being.
     </li>
     <li>
-        <strong><a href="https://petdesk.com/" target="_blank">PetDesk</a></strong>:
+        <strong><a href="https://petdesk.com/" target="_blank">PetDesk:</a></strong>
         A CRM software for veterinary practices that improves communication with pet owners through appointment reminders, automated health service notifications, and a mobile app. It aims to streamline clinic operations and enhance client engagement, improving pet health outcomes.
     </li>
     <li>
-        <strong><a href="https://pawprosper.com/" target="_blank">Paw Prosper</a></strong>:
+        <strong><a href="https://pawprosper.com/" target="_blank">Paw Prosper:</a></strong>
         A pet health monitoring platform that uses wearable technology to track vital signs and activity levels. It provides real-time data and insights for pet owners and veterinarians, focusing on preventive care and early detection of health issues.
     </li>
 </ul></ul>
