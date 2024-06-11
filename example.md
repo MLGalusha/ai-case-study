@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Maven Pet:<h1>
-
   <h2>Harnessing AI to Detect Early Signs of Illness in Pets<h2>
 
 
