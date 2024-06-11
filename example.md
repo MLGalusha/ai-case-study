@@ -1,4 +1,6 @@
-# Maven Pet:
+# <div align="center">
+  Maven Pet:
+ </div>
 ## Harnessing AI to Detect Early Signs of Illness in Pets
 
 ![aimeos-frontend](https://maven.pet/all-about-pets/wp-content/uploads/2021/01/how_does_maven_work.jpg)
