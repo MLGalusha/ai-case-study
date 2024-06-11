@@ -109,7 +109,7 @@
   <li style="margin-bottom: 20px;"><strong>Improved Veterinary Efficiency:</strong> By providing real-time health data and alerts, Maven Pet supports veterinarians in making more accurate diagnoses and developing effective treatment plans. This integration of AI in the veterinary workflow streamlines operations and improves the efficiency of vet practices​.</li>
   <li style="margin-bottom: 20px;"><strong>Enhanced Pet Owner Engagement:</strong> The continuous health monitoring and personalized insights provided by Maven Pet empower pet owners with actionable information about their pets' health. This leads to better-informed decisions and increased peace of mind for pet owners, knowing that their pets are being monitored closely.</li>
   <li style="margin-bottom: 20px;"><strong>Success Stories:</strong> Real-world cases, such as the early detection and management of Diabetes Mellitus in a Labrador Retriever, highlight the platform's effectiveness in improving pet health outcomes. These success stories reinforce the value of continuous health monitoring and the integration of AI in veterinary care.</li>
-</ul></ul>
+</ul>
 
 <details><summary><strong>Core Metrics/Performance</strong></summary>
 <ul>
