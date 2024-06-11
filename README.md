@@ -32,7 +32,7 @@
 </details>
 
 <details><summary><strong>Competitive Advantage</strong></summary>
-Maven Pet's unique advantage is its comprehensive health monitoring system, which tracks vital health metrics like heart rate, body temperature, and respiratory rate, enabling early detection of health issues and providing detailed, real-time data to veterinarians for accurate diagnoses. Additionally, it offers behavioral analysis tools for insights into pets' mood and temperament.
+  Maven Pet's unique advantage is its comprehensive health monitoring system, which tracks vital health metrics like heart rate, body temperature, and respiratory rate, enabling early detection of health issues and providing detailed, real-time data to veterinarians for accurate diagnoses. Additionally, it offers behavioral analysis tools for insights into pets' mood and temperament.
 </details>
 
 <details><summary><strong>Technologies</strong></summary>
@@ -46,7 +46,15 @@ Maven Pet's unique advantage is its comprehensive health monitoring system, whic
 
 ## Landscape
 
-* What field is the company in?
+<details><summary>Field<strong></strong></summary>
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong><ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Trends and Innovations</strong></li>
+  <li style="margin-bottom: 20px;"><strong>Veterinary Health Technology</strong></li>
+</ul></li>
+  <li style="margin-bottom: 20px;"><strong>Veterinary Health Technology</strong></li>
+</ul>
+</details>
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
@@ -62,10 +70,12 @@ Maven Pet's unique advantage is its comprehensive health monitoring system, whic
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) Additional Cameras and sensors around the house to give more accurate monitoring of your pet.
 
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources
