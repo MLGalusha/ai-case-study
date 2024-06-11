@@ -55,10 +55,43 @@
   <li style="margin-bottom: 20px;"><strong>Connected Devices:</strong> The integration of IoT devices in pet care allows for better connectivity and data sharing between pet owners, veterinarians, and health monitoring devices​.</li>
 </ul></ul>
 
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Veterinary Health Technology</strong><details><summary><strong>Trends and Innovations</strong></summary>
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Telemedicine:</strong> The rise of telemedicine in veterinary care has made it easier for pet owners to consult with veterinarians remotely, ensuring timely care without the need for physical visits.​</li>
+  <li style="margin-bottom: 20px;"><strong>AI-Enabled Diagnostics:</strong> AI tools are being used to enhance diagnostic accuracy by analyzing medical records, lab results, and imaging data to assist veterinarians in making informed decisions​.</li>
+  <li style="margin-bottom: 20px;"><strong>Wearable Health Monitors:</strong> Similar to pet tech, wearable devices for pets are being used to monitor health metrics continuously, providing data that can be used for preventive care and early diagnosis of diseases.</li>
+  <li style="margin-bottom: 20px;"><strong>Electronic Health Records (EHRs):</strong> The adoption of EHRs in veterinary practices allows for better data management and sharing, improving the efficiency of care and enabling data-driven decision-making.</li>
+</ul></ul>
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Additional Companies(not all)</strong><details><summary><strong>Trends and Innovations</strong></summary>
+<ul>
+    <li>
+        <strong><a href="https://www.petpace.com" target="_blank">PetPace</a></strong>:
+        Offers a smart collar for cats and dogs that monitors vital signs such as temperature, pulse, respiration, and heart rate variability. It also tracks activity levels, calories burned, and pain indicators. The data is analyzed, and alerts are sent to the owner or vet via app notifications if anomalies are detected.
+    </li>
+    <li>
+        <strong><a href="https://www.actijoy.com" target="_blank">Actijoy</a></strong>:
+        Provides a comprehensive health and activity monitoring system that includes a Health & Activity Tracker, WiFi Food & Water Bowls, and a mobile app. This system tracks a dog's activity, rest, food, and water intake, detecting health anomalies and providing insights for improved pet care.
+    </li>
+    <li>
+        <strong><a href="https://www.moggie.me" target="_blank">Moggie</a></strong>:
+        Develops a smart collar specifically for cats. It monitors pet activity throughout the day and provides behavior-based health suggestions. The collar uses algorithms to offer veterinary insights on potential health risks and remotely updates pet parents about changes in monitored parameters.
+    </li>
+    <li>
+        <strong><a href="https://www.lulupet.com.tw" target="_blank">Lulupet</a></strong>:
+        Offers a smart litter box for cats that combines AI, IoT, and cloud computing to monitor excretion behavior. The accompanying app provides health information and enables precision medicine prescriptions, helping pet owners identify the right time for medical intervention.
+    </li>
+    <li>
+        <strong><a href="https://www.getrawr.com" target="_blank">RAWR</a></strong>:
+        Provides a smart pet collar that tracks activity levels, location details, and vital signs. The system alerts pet parents to abnormal vitals, such as signs of a heat stroke, and offers personalized updates on medicine refills and checkups.
+    </li>
+    <li>
+        <strong><a href="https://www.felcana.com" target="_blank">Felcana</a></strong>:
+        A digital pet health platform that monitors pets' health and fitness through an app. It offers insights and recommendations based on the collected data, helping pet owners ensure their pets' well-being.
+    </li>
+</ul></ul>
 
 ## Results
 
