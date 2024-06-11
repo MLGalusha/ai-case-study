@@ -65,7 +65,7 @@
 </ul></ul>
 
 <ul>
-  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Additional Companies(not all)</strong><details><summary><strong>Trends and Innovations</strong></summary>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Additional Companies</strong><details><summary><strong>A Couple Similar Companies</strong></summary>
 <ul>
     <li>
         <strong><a href="https://www.petpace.com" target="_blank">PetPace</a></strong>:
