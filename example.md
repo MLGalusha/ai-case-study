@@ -8,6 +8,9 @@
 </div>
 
 ## Overview and Origin
+<h3 style="display: inline;">Heading 3</h3> <span style="display: inline;">other text after header</span>
+
+
 <span><h3> Name of company:</h3> Maven Pet</span>
 
 <h3>Incorporation Date:</h3> <span style="display: inline;">2021</span>
