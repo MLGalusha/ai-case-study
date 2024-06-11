@@ -46,7 +46,6 @@
 
 ## Landscape
 
-<details>
 <ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong><details><summary><strong>Trends and Innovations</strong></summary>
 <ul>
@@ -55,14 +54,7 @@
   <li style="margin-bottom: 20px;"><strong>Integrated Health Monitoring Systems:</strong> Devices and systems that provide comprehensive health monitoring, including vital signs and behavioral analysis, help in early detection and better health management for pets.</li>
   <li style="margin-bottom: 20px;"><strong>Connected Devices:</strong> The integration of IoT devices in pet care allows for better connectivity and data sharing between pet owners, veterinarians, and health monitoring devices​.</li>
 </ul>
-</details></li>
-  <li style="margin-bottom: 20px;"><strong>Veterinary Health Technology</strong><details><summary><strong></strong></summary>
-<ul>
-  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong></li>
-</ul>
-</details></li>
-</ul>
-</details>
+
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
