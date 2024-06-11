@@ -8,7 +8,7 @@
 </div>
 
 ## Overview and Origin
-<h3> Name of company:</h3> <span style="display: inline;">Maven Pet</span>
+<h3> Name of companny:</h3> <span style="display: inline;">Maven Pet</span>
 
 <h3>Incorporation Date:</h3> <span style="display: inline;">2021</span>
 
