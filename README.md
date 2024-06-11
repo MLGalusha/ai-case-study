@@ -49,25 +49,25 @@
 
 ## Landscape
 
-
+<ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong><details><summary><strong>Trends and Innovations</strong></summary>
 <ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Smart Collars and Wearables:</strong> Advanced collars now monitor a pet’s activity, heart rate, and other health metrics, providing real-time data to owners and veterinarians. Examples include collars that track daily exercise, location, and even detect health conditions like atrial fibrillation in pets.​</li>
   <li style="margin-bottom: 20px;"><strong>AI and Machine Learning:</strong> AI algorithms are being used to analyze health data, predict potential health issues, and provide personalized care recommendations. This technology enhances the ability to detect early signs of illness and manage chronic conditions​.</li>
   <li style="margin-bottom: 20px;"><strong>Integrated Health Monitoring Systems:</strong> Devices and systems that provide comprehensive health monitoring, including vital signs and behavioral analysis, help in early detection and better health management for pets.</li>
   <li style="margin-bottom: 20px;"><strong>Connected Devices:</strong> The integration of IoT devices in pet care allows for better connectivity and data sharing between pet owners, veterinarians, and health monitoring devices​.</li>
-</ul>
+</ul></ul>
 
-
+<ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Veterinary Health Technology</strong><details><summary><strong>Trends and Innovations</strong></summary>
 <ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Telemedicine:</strong> The rise of telemedicine in veterinary care has made it easier for pet owners to consult with veterinarians remotely, ensuring timely care without the need for physical visits.​</li>
   <li style="margin-bottom: 20px;"><strong>AI-Enabled Diagnostics:</strong> AI tools are being used to enhance diagnostic accuracy by analyzing medical records, lab results, and imaging data to assist veterinarians in making informed decisions​.</li>
   <li style="margin-bottom: 20px;"><strong>Wearable Health Monitors:</strong> Similar to pet tech, wearable devices for pets are being used to monitor health metrics continuously, providing data that can be used for preventive care and early diagnosis of diseases.</li>
   <li style="margin-bottom: 20px;"><strong>Electronic Health Records (EHRs):</strong> The adoption of EHRs in veterinary practices allows for better data management and sharing, improving the efficiency of care and enabling data-driven decision-making.</li>
-</ul>
+</ul></ul>
 
-
+<ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Additional Companies</strong><details><summary><strong>A Couple Similar Companies</strong></summary>
 <ul>
     <li>
@@ -94,7 +94,7 @@
         <strong><a href="https://pawprosper.com/" target="_blank">Paw Prosper:</a></strong>
         A pet health monitoring platform that uses wearable technology to track vital signs and activity levels. It provides real-time data and insights for pet owners and veterinarians, focusing on preventive care and early detection of health issues.
     </li>
-</ul>
+</ul></ul>
 
 ## Results
 
