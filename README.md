@@ -35,7 +35,7 @@
 Maven Pet's unique advantage is its comprehensive health monitoring system, which tracks vital health metrics like heart rate, body temperature, and respiratory rate, enabling early detection of health issues and providing detailed, real-time data to veterinarians for accurate diagnoses. Additionally, it offers behavioral analysis tools for insights into pets' mood and temperament.
 </details>
 
-<details><strong>Technologies</strong>
+<details><summary><strong>Technologies</strong></summary>
 <ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>AI and Machine Learning:</strong> These are core to Maven Pet’s health monitoring and behavioral analysis capabilities. AI algorithms process the collected data to identify patterns and alert owners and veterinarians to potential health issues.</li>
   <li style="margin-bottom: 20px;"><strong>Wearable Technology:</strong> A smart collar equipped with sensors tracks vital signs and activity levels, providing continuous health monitoring.</li>
