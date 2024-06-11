@@ -3,7 +3,7 @@
 
 
 
-![aimeos-frontend](https://maven.pet/all-about-pets/wp-content/uploads/2021/01/how_does_maven_work.jpg)
+![aimeos-frontend](https://maven.pet/img/main/share.jpg)
 
 
 ## Overview and Origin
