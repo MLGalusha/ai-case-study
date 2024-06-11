@@ -80,14 +80,6 @@
         Develops a smart collar specifically for cats. It monitors pet activity throughout the day and provides behavior-based health suggestions. The collar uses algorithms to offer veterinary insights on potential health risks and remotely updates pet parents about changes in monitored parameters.
     </li>
     <li>
-        <strong><a href="https://www.lulupet.com.tw" target="_blank">Lulupet:</a></strong>
-        Offers a smart litter box for cats that combines AI, IoT, and cloud computing to monitor excretion behavior. The accompanying app provides health information and enables precision medicine prescriptions, helping pet owners identify the right time for medical intervention.
-    </li>
-    <li>
-        <strong><a href="https://www.getrawr.com" target="_blank">RAWR:</a></strong>
-        Provides a smart pet collar that tracks activity levels, location details, and vital signs. The system alerts pet parents to abnormal vitals, such as signs of a heat stroke, and offers personalized updates on medicine refills and checkups.
-    </li>
-    <li>
         <strong><a href="https://www.felcana.com" target="_blank">Felcana:</a></strong>
         A digital pet health platform that monitors pets' health and fitness through an app. It offers insights and recommendations based on the collected data, helping pet owners ensure their pets' well-being.
     </li>
