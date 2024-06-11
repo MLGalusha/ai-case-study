@@ -53,7 +53,7 @@
   <li style="margin-bottom: 20px;"><strong>AI and Machine Learning:</strong> AI algorithms are being used to analyze health data, predict potential health issues, and provide personalized care recommendations. This technology enhances the ability to detect early signs of illness and manage chronic conditions​.</li>
   <li style="margin-bottom: 20px;"><strong>Integrated Health Monitoring Systems:</strong> Devices and systems that provide comprehensive health monitoring, including vital signs and behavioral analysis, help in early detection and better health management for pets.</li>
   <li style="margin-bottom: 20px;"><strong>Connected Devices:</strong> The integration of IoT devices in pet care allows for better connectivity and data sharing between pet owners, veterinarians, and health monitoring devices​.</li>
-</ul>
+</ul></ul>
 
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
