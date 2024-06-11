@@ -158,10 +158,10 @@ To enhance pet monitoring accuracy, Maven Pet could introduce additional cameras
 ### 1. [Maven Pet Official Website](https://maven.pet)
 > The official website of Maven Pet provides comprehensive information about the company's products, technologies, and services. It was used to gather detailed insights into the features and benefits of Maven Pet's health monitoring solutions.
 
-### 2. [TryFi Blog](https://blog.tryfi.com/fi-vs-maven-analysis-of-top-dog-collar-tech/)
+### 2. [TryFi Blog](https://tryfi.com/)
 > This blog post compares Maven Pet with other pet health monitoring technologies, highlighting Maven Pet's unique advantages. It was used to understand Maven Pet's competitive edge.
 
-### 3. [PitchBook](https://pitchbook.com/profiles/company/267974-45)
+### 3. [PitchBook](https://pitchbook.com/)
 > PitchBook provides data on Maven Pet’s funding, financial performance, and market positioning. This source helped in analyzing Maven Pet's business impact and market penetration.
 
 ### 4. [Veterinary Practice News](https://www.veterinarypracticenews.com)
@@ -176,19 +176,19 @@ To enhance pet monitoring accuracy, Maven Pet could introduce additional cameras
 ### 7. [Upvio](https://upvio.com)
 > Upvio offers insights into the integration of IoT and wireless communication technologies in health monitoring systems. This source was used to highlight the benefits of these technologies for Maven Pet.
 
-### 8. [IEEE Computer Society](https://www.computer.org/publications/tech-news/trends/computer-vision-for-automated-health-monitoring)
+### 8. [IEEE Computer Society](https://www.computer.org/publications/tech-news/trends)
 > IEEE Computer Society's publication provides detailed information on computer vision technology and its applications in health monitoring. It was used to explain the role of computer vision in Maven Pet’s products.
 
 ### 9. [IBM Cloud](https://www.ibm.com/cloud/learn/cloud-computing)
 >IBM Cloud offers comprehensive knowledge about cloud computing technologies. This source was used to describe the importance of cloud computing for data storage and processing in Maven Pet’s solutions.
 
-### 10. [TechTarget](https://internetofthingsagenda.techtarget.com/definition/wireless-communications)
+### 10. [TechTarget](https://www.techtarget.com/iotagenda/)
 >TechTarget provides insights into wireless communication technologies. This source helped in explaining the role of wireless communication in Maven Pet’s monitoring system.
 
 ### 11. [PetDesk](https://petdesk.com)
 > PetDesk’s official website provides information about their CRM software for veterinary practices. It was used to understand similar companies and how they enhance veterinary care.
 
-### 12. [Crunchbase](https://www.crunchbase.com/organization/petdesk)
+### 12. [Crunchbase](https://www.crunchbase.com/organization/maven-c57e)
 > Crunchbase offers detailed profiles of various companies, including PetDesk and Maven Pet. It was used to compare Maven Pet with other companies in the pet health monitoring field.
 
 ### 13. [Craft.co](https://craft.co/maven)
