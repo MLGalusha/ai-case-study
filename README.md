@@ -104,7 +104,7 @@
 ## Results
 
 <ul>
-  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Business Impact of Maven Pet</strong><details><summary><strong>Maven Pet has made a significant impact in the pet health monitoring industry by introducing advanced AI-driven solutions that enhance veterinary care and pet owner engagement. Here are some key impacts:</strong></summary>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Business Impact of Maven Pet</strong><details><summary><strong>Key Impacts:</strong></summary>
 <ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Early Disease Detection:</strong> Maven Pet's AI-Vet™ platform enables continuous tracking of various health parameters, helping to detect early signs of health issues, which leads to timely interventions and better health outcomes for pets. This proactive approach reduces the reliance on pet owners to notice symptoms and report them during infrequent vet visits.​</li>
   <li style="margin-bottom: 20px;"><strong>Improved Veterinary Efficiency:</strong> By providing real-time health data and alerts, Maven Pet supports veterinarians in making more accurate diagnoses and developing effective treatment plans. This integration of AI in the veterinary workflow streamlines operations and improves the efficiency of vet practices​.</li>
