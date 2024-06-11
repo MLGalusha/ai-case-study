@@ -16,10 +16,10 @@
 
 <details><summary><strong>Problems Maven Pet Solves</strong></summary>
 <ul>
-  <li style="margin-bottom: 20px; margin-top: 20px; color: orange;"><strong>Continuous Health Monitoring</strong>: Provides real-time tracking of pets' health metrics between veterinary visits.</li>
-  <li style="margin-bottom: 20px; color: orange;"><strong>Enhanced Diagnostics</strong>: Offers veterinarians accurate data and graphs to better understand health trends and make precise diagnoses.</li>
-  <li style="margin-bottom: 20px; color: orange;"><strong>Early Detection</strong>: Alerts pet owners to the earliest signs of potential health issues, enabling timely intervention.</li>
-  <li style="margin-bottom: 20px; color: orange;"><strong>Data-Driven Insights</strong>: Reduces reliance on owner-reported symptoms, providing objective data for health assessments.</li>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Continuous Health Monitoring</strong>: Provides real-time tracking of pets' health metrics between veterinary visits.</li>
+  <li style="margin-bottom: 20px;"><strong>Enhanced Diagnostics</strong>: Offers veterinarians accurate data and graphs to better understand health trends and make precise diagnoses.</li>
+  <li style="margin-bottom: 20px;"><strong>Early Detection</strong>: Alerts pet owners to the earliest signs of potential health issues, enabling timely intervention.</li>
+  <li style="margin-bottom: 20px;"><strong>Data-Driven Insights</strong>: Reduces reliance on owner-reported symptoms, providing objective data for health assessments.</li>
 </ul>
 </details>
 
