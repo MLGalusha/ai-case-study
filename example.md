@@ -1,8 +1,7 @@
 # Maven Pet: Harnessing AI to Detect Early Signs of Illness in Pets
 
-<div align="center">
-  <img src="https://maven.pet/all-about-pets/wp-content/uploads/2021/01/how_does_maven_work.jpg" alt="Maven Pet Logo" width="600">
-</div>
+![aimeos-frontend](https://maven.pet/all-about-pets/wp-content/uploads/2021/01/how_does_maven_work.jpg)
+
 
 ## Overview and Origin
 **Name of company:** Maven Pet
