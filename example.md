@@ -8,7 +8,7 @@
 </div>
 
 ## Overview and Origin
-<h3 style="display: inline;">Heading 3</h3> <span style="display: inline;">other text after header</span>
+<h3 style="display: inline;">Heading 3</h3> other text after header
 
 
 <span><h3> Name of company:</h3> Maven Pet</span>
