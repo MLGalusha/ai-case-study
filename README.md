@@ -153,7 +153,7 @@ To enhance pet monitoring accuracy, Maven Pet could introduce additional cameras
 </details>
 
 
-## Sources
+<details><summary><h2>Sources</h2></summary>
 
 ### 1. [Maven Pet Official Website](https://maven.pet)
 **Description**: The official website of Maven Pet provides comprehensive information about the company's products, technologies, and services. It was used to gather detailed insights into the features and benefits of Maven Pet's health monitoring solutions.
@@ -193,3 +193,4 @@ To enhance pet monitoring accuracy, Maven Pet could introduce additional cameras
 
 ### 13. [Craft.co](https://craft.co/maven)
 **Description**: Craft.co provides a comprehensive overview of Maven Pet’s competitors and market position. It was used to evaluate how Maven Pet performs relative to its competitors.
+</details>
