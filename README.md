@@ -2,11 +2,14 @@
 
 ## Overview and Origin
 
-* Name of company
+**Name of company:** Maven Pet
 
-* When was the company incorporated?
+**Founded Date:** 2021
 
-* Who are the founders of the company?
+<details>
+ <summary><strong>Founders</strong></summary>
+ David Barroso, Guilherme Coelho, Paulo Fonseca, Virgílio Bento
+</details>
 
 * How did the idea for the company (or project) come about?
 
