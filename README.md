@@ -46,13 +46,21 @@
 
 ## Landscape
 
-<details><summary>Field<strong></strong></summary>
+<details><summary><strong>Field</strong></summary>
 <ul>
-  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong><ul>
-  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Trends and Innovations</strong></li>
-  <li style="margin-bottom: 20px;"><strong>Veterinary Health Technology</strong></li>
-</ul></li>
-  <li style="margin-bottom: 20px;"><strong>Veterinary Health Technology</strong></li>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong><details><summary><strong>Trends and Innovations</strong></summary>
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Smart Collars and Wearables:</strong> Advanced collars now monitor a pet’s activity, heart rate, and other health metrics, providing real-time data to owners and veterinarians. Examples include collars that track daily exercise, location, and even detect health conditions like atrial fibrillation in pets.​</li>
+  <li style="margin-bottom: 20px;"><strong>AI and Machine Learning:</strong> AI algorithms are being used to analyze health data, predict potential health issues, and provide personalized care recommendations. This technology enhances the ability to detect early signs of illness and manage chronic conditions​.</li>
+  <li style="margin-bottom: 20px;"><strong>Integrated Health Monitoring Systems:</strong> Devices and systems that provide comprehensive health monitoring, including vital signs and behavioral analysis, help in early detection and better health management for pets.</li>
+  <li style="margin-bottom: 20px;"><strong>Connected Devices:</strong> The integration of IoT devices in pet care allows for better connectivity and data sharing between pet owners, veterinarians, and health monitoring devices​.</li>
+</ul>
+</details></li>
+  <li style="margin-bottom: 20px;"><strong>Veterinary Health Technology</strong><details><summary><strong></strong></summary>
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong></li>
+</ul>
+</details></li>
 </ul>
 </details>
 
