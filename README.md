@@ -23,8 +23,13 @@
 </ul>
 </details>
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
+<details><summary><strong>Market</strong></summary>
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Owners:</strong>: Continuous health monitoring and early detection of health issues.</li>
+  <li style="margin-bottom: 20px;"><strong>Veterinarians:</strong>: Accurate health data and trends for improved diagnostics and patient care.</li>
+  <li style="margin-bottom: 20px;"><strong>Pet Tech Market:</strong>Rapidly growing, with the pet wearables market valued at approximately USD 3 billion in 2022, highlighting significant growth potential for health monitoring technologies like Maven Pet.</li>
+</ul>
+</details>
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
