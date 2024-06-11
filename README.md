@@ -46,7 +46,7 @@
 
 ## Landscape
 
-<details><summary><strong>Field</strong></summary>
+<details>
 <ul>
   <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Pet Tech</strong><details><summary><strong>Trends and Innovations</strong></summary>
 <ul>
