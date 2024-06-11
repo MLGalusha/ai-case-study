@@ -91,6 +91,14 @@
         <strong><a href="https://www.felcana.com" target="_blank">Felcana</a></strong>:
         A digital pet health platform that monitors pets' health and fitness through an app. It offers insights and recommendations based on the collected data, helping pet owners ensure their pets' well-being.
     </li>
+    <li>
+        <strong><a href="https://petdesk.com/" target="_blank">PetDesk</a></strong>:
+        A CRM software for veterinary practices that improves communication with pet owners through appointment reminders, automated health service notifications, and a mobile app. It aims to streamline clinic operations and enhance client engagement, improving pet health outcomes.
+    </li>
+    <li>
+        <strong><a href="https://pawprosper.com/" target="_blank">Paw Prosper</a></strong>:
+        A pet health monitoring platform that uses wearable technology to track vital signs and activity levels. It provides real-time data and insights for pet owners and veterinarians, focusing on preventive care and early detection of health issues.
+    </li>
 </ul></ul>
 
 ## Results
