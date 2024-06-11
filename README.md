@@ -16,10 +16,10 @@
 
 <details><summary><strong>Problems Maven Pet Solves</strong></summary>
 <ul>
-  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Continuous Health Monitoring</strong>: Provides real-time tracking of pets' health metrics between veterinary visits.</li>
-  <li style="margin-bottom: 20px;"><strong>Enhanced Diagnostics</strong>: Offers veterinarians accurate data and graphs to better understand health trends and make precise diagnoses.</li>
-  <li style="margin-bottom: 20px;"><strong>Early Detection</strong>: Alerts pet owners to the earliest signs of potential health issues, enabling timely intervention.</li>
-  <li style="margin-bottom: 20px;"><strong>Data-Driven Insights</strong>: Reduces reliance on owner-reported symptoms, providing objective data for health assessments.</li>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>Continuous Health Monitoring:</strong> Provides real-time tracking of pets' health metrics between veterinary visits.</li>
+  <li style="margin-bottom: 20px;"><strong>Enhanced Diagnostics:</strong> Offers veterinarians accurate data and graphs to better understand health trends and make precise diagnoses.</li>
+  <li style="margin-bottom: 20px;"><strong>Early Detection:</strong> Alerts pet owners to the earliest signs of potential health issues, enabling timely intervention.</li>
+  <li style="margin-bottom: 20px;"><strong>Data-Driven Insights:</strong> Reduces reliance on owner-reported symptoms, providing objective data for health assessments.</li>
 </ul>
 </details>
 
@@ -30,9 +30,19 @@
   <li style="margin-bottom: 20px;"><strong>Pet Tech Market:</strong> Rapidly growing, with the pet wearables market valued at approximately USD 3 billion in 2022, highlighting significant growth potential for health monitoring technologies like Maven Pet.</li>
 </ul>
 </details>
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+<details><summary><strong>Competitive Advantage</strong></summary>
+Maven Pet's unique advantage is its comprehensive health monitoring system, which tracks vital health metrics like heart rate, body temperature, and respiratory rate, enabling early detection of health issues and providing detailed, real-time data to veterinarians for accurate diagnoses. Additionally, it offers behavioral analysis tools for insights into pets' mood and temperament.
+</details>
+
+<details><strong>Technologies</strong>
+<ul>
+  <li style="margin-bottom: 20px; margin-top: 20px;"><strong>AI and Machine Learning:</strong> These are core to Maven Pet’s health monitoring and behavioral analysis capabilities. AI algorithms process the collected data to identify patterns and alert owners and veterinarians to potential health issues.</li>
+  <li style="margin-bottom: 20px;"><strong>Wearable Technology:</strong> A smart collar equipped with sensors tracks vital signs and activity levels, providing continuous health monitoring.</li>
+  <li style="margin-bottom: 20px;"><strong>Mobile Application:</strong> Pet owners use an app to access real-time data and insights about their pets' health and behavior, allowing proactive care.</li>
+  <li style="margin-bottom: 20px;"><strong>Cloud Computing:</strong> Data is securely stored and processed in the cloud, ensuring continuous access for veterinarians and pet owners.</li>
+</ul>
+</details>
 
 ## Landscape
 
