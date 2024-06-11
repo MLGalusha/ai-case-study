@@ -6,18 +6,26 @@
 
 **Founded Date:** 2021
 
+**Founders:** David Barroso, Guilherme Coelho, Paulo Fonseca, Virgílio Bento
 <details>
  <summary><strong>Founders</strong></summary>
  David Barroso, Guilherme Coelho, Paulo Fonseca, Virgílio Bento
 </details>
 
-* How did the idea for the company (or project) come about?
+**Idea Origin:** Maven Pet aims to bridge the gap between clinic visits and continuous at-home health monitoring using AI to provide proactive pet care, ensuring early detection and intervention for health issues.
 
-* How is the company funded? How much funding have they received?
+**Funding** The company was funded by investors, raising about 4.5 million in the first year
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+<details><summary><strong>Problems Maven Pet Solves</strong></summary>
+<ul>
+  <li><strong>Continuous Health Monitoring</strong>: Provides real-time tracking of pets' health metrics between veterinary visits.</li>
+  <li><strong>Enhanced Diagnostics</strong>: Offers veterinarians accurate data and graphs to better understand health trends and make precise diagnoses.</li>
+  <li><strong>Early Detection</strong>: Alerts pet owners to the earliest signs of potential health issues, enabling timely intervention.</li>
+  <li><strong>Data-Driven Insights</strong>: Reduces reliance on owner-reported symptoms, providing objective data for health assessments.</li>
+</ul>
+</details>
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
