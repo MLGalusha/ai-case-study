@@ -16,6 +16,7 @@
 **Funding** Maven Pet has secured funding primarily through venture capital and angel investments. Initially, the company raised about $4.5 million in its first year (2021). Since then, Maven Pet has continued to receive investments from notable investors such as Unicorn Factory Lisboa, Armilar Venture Partners, Goodwater Capital, and MSM, accumulating a total of $6.03 million in funding by 2024​.
 ![Alt text](funding.png)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Business Activities
 
@@ -48,6 +49,8 @@
   <li style="margin-bottom: 20px;"><strong>Cloud Computing:</strong> Data is securely stored and processed in the cloud, ensuring continuous access for veterinarians and pet owners.</li>
 </ul>
 </details>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Landscape
 
@@ -98,6 +101,8 @@
     </li>
 </ul></ul>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Results
 
 <details><summary><strong>Key Impacts:</strong></summary>
@@ -123,6 +128,7 @@
 Maven Pet is performing better than its competitors in the pet health monitoring market. The company leverages advanced AI-driven technology to provide comprehensive health data and real-time insights, resulting in superior health outcomes and higher customer satisfaction. Maven Pet's integrated approach combines detailed analytics with early detection capabilities, setting it apart from competitors that may offer similar devices but lack such depth in health monitoring and analysis. This robust and data-rich solution positions Maven Pet favorably, enhancing its competitive edge in the market​.
 </details>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Recommendations
 
@@ -149,6 +155,7 @@ To enhance pet monitoring accuracy, Maven Pet could introduce additional cameras
 </ul>
 </details>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <details><summary><h2>Sources</h2></summary>
 
