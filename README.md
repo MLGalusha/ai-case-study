@@ -20,9 +20,13 @@
 
 <details><summary><strong>Problems Maven Pet Solves</strong></summary>
 <ul>
+
   <li><strong>Continuous Health Monitoring</strong>: Provides real-time tracking of pets' health metrics between veterinary visits.</li>
+
   <li><strong>Enhanced Diagnostics</strong>: Offers veterinarians accurate data and graphs to better understand health trends and make precise diagnoses.</li>
+
   <li><strong>Early Detection</strong>: Alerts pet owners to the earliest signs of potential health issues, enabling timely intervention.</li>
+
   <li><strong>Data-Driven Insights</strong>: Reduces reliance on owner-reported symptoms, providing objective data for health assessments.</li>
 </ul>
 </details>
