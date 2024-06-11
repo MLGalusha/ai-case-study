@@ -8,8 +8,6 @@
 </div>
 
 ## Overview and Origin
-
-
 **Name of company:** Maven Pet
 
 **Incorporation Date:** 2021
