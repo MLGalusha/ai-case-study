@@ -8,14 +8,15 @@
 
 ## Overview and Origin
 **Name of company:** Maven Pet
+
 **Incorporation Date:** 2021
+
 **Founders:** Guilherme Coelho, Co-founder and CEO
+
 **Idea Origin:** Maven Pet was conceived to bridge the gap between pets’ departure from clinics and continuous health monitoring at home. The goal was to leverage AI to provide proactive pet care, ensuring early detection and intervention for health issues.
+
 **Funding:** Maven Pet has raised $4.5M over 2 funding rounds.
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Maven Pet Monitoring" width="600">
-</div>
 
 ## Business Activities
 Maven Pet's primary activity is the development and deployment of the AI-Vet™ platform. This platform uses advanced AI algorithms to monitor pets' health continuously, providing veterinarians and pet owners with real-time data and alerts. Maven Pet’s technology aims to enhance pet health outcomes through early detection of health issues, streamlined monitoring, and better-informed veterinary care.
