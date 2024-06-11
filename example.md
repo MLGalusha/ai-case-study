@@ -8,13 +8,13 @@
 </div>
 
 ## Overview and Origin
-### Name of company: Maven Pet
+### Name of company: <span>Maven Pet</span>
 
-### Incorporation Date: 2021
+### Incorporation Date: <span>2021</span>
 
-### Founders: Guilherme Coelho, Co-founder and CEO
+### Founders: <span>Guilherme Coelho, Co-founder and CEO</span>
 
-### Idea Origin: Maven Pet was conceived to bridge the gap between pets’ departure from clinics and continuous health monitoring at home. The goal was to leverage AI to provide proactive pet care, ensuring early detection and intervention for health issues.
+### Idea Origin: <span>Maven Pet was conceived to bridge the gap between pets’ departure from clinics and continuous health monitoring at home. The goal was to leverage AI to provide proactive pet care, ensuring early detection and intervention for health issues.</span>
 
 ### Funding: Maven Pet has raised $4.5M over 2 funding rounds.
 
