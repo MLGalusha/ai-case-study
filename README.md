@@ -14,7 +14,8 @@
 **Idea Origin:** Maven Pet aims to bridge the gap between clinic visits and continuous at-home health monitoring using AI to provide proactive pet care, ensuring early detection and intervention for health issues.
 
 **Funding** Maven Pet has secured funding primarily through venture capital and angel investments. Initially, the company raised about $4.5 million in its first year (2021). Since then, Maven Pet has continued to receive investments from notable investors such as Unicorn Factory Lisboa, Armilar Venture Partners, Goodwater Capital, and MSM, accumulating a total of $6.03 million in funding by 2024​.
-![Alt text](/Users/masongalusha/Desktop/Screenshot 2024-06-11 at 5.03.52 PM.png)
+![Alt text](funding.png)
+
 
 ## Business Activities
 
