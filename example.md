@@ -1,10 +1,9 @@
 <div align="center">
   <h1>Maven Pet:<h1>
- </div>
 
-<div align="center">
+
     <h2>Harnessing AI to Detect Early Signs of Illness in Pets<h2>
-</div>
+
 
 
 ![aimeos-frontend](https://maven.pet/all-about-pets/wp-content/uploads/2021/01/how_does_maven_work.jpg)
@@ -73,3 +72,4 @@ The report is structured in a clear and organized manner with the following comp
 1. **Heading**
    ```markdown
    # Maven Pet: Harnessing AI to Detect Early Signs of Illness in Pets
+</div>
