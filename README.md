@@ -1,5 +1,5 @@
 
-# Maven Pet: Harnessing AI to Detect Early Signs of Illness in Pet
+# Maven Pet: Harnessing AI to Detect Early Signs of Illness in Pets
 ![aimeos-frontend](https://maven.pet/img/main/share.jpg)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
